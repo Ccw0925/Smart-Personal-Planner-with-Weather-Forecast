@@ -8,6 +8,11 @@ With the help of Natural Language Processing (NLP), Smart Personal Planner will 
 ## File Link
 https://drive.google.com/file/d/1uzom7fcg-j7iaG3lVnphfh0vbtych0ck/view?usp=sharing
 
+## Programming Languages Used
+1. Python (Using Flask as a micro web framework)
+2. Javascript
+3. HTML and CSS
+
 ## Screenshots
 <img src="Screenshots/screenshot1.jpg"><img src="Screenshots/screenshot2.jpg">
 <img src="Screenshots/screenshot3.jpg"><img src="Screenshots/screenshot4.jpg" width="250">
