@@ -9,5 +9,5 @@ With the help of Natural Language Processing (NLP), Smart Personal Planner will 
 https://drive.google.com/file/d/1uzom7fcg-j7iaG3lVnphfh0vbtych0ck/view?usp=sharing
 
 ## Screenshots
-<img src="Screenshots/screenshot1.jpg" width="250"><img src="Screenshots/screenshot2.jpg" width="250">
+<img src="Screenshots/screenshot1.jpg"><img src="Screenshots/screenshot2.jpg" width="250">
 <img src="Screenshots/screenshot3.jpg" width="250"><img src="Screenshots/screenshot4.jpg" width="250">
